@@ -57,4 +57,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'bootstrap'
 gem 'slim-rails'
 gem 'html2slim'
-gem 'sqlite3'
+#gem 'sqlite3'
